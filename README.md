@@ -1,5 +1,6 @@
 # Grupo-bimbo-project
 Grupo Bimbo Inventory Demand
+
 Competition link: https://www.kaggle.com/c/grupo-bimbo-inventory-demand
 
 What we do in this project
